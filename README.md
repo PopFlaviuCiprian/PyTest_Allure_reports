@@ -16,4 +16,3 @@ In this small project I am using pytest along with Allure reporting
 
 
 [![](https://markdown-videos.deta.dev/youtube/8kDgQ3BQirg)](https://youtu.be/8kDgQ3BQirg)
-
