@@ -13,4 +13,5 @@ In this small project I am using PyTest along with Allure reporting
 # How to install Selenium
 1. In PyCharm terminal run the command: pip install selenium
 
+# Watch the video below
 https://github.com/PopFlaviuCiprian/PyTest_Allure_reports/assets/117381350/7b58745d-f9ab-4021-9b64-87cf2fe5a158
